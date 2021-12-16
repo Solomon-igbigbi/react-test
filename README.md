@@ -7,7 +7,7 @@
 - Loading state and knowing where and how to make multiple API calls efficiently
 
 # Pre-requisites ✅
-- Add your Deezer client ID & secret to `config.js`
+- Add your Deezer client ID & secret to `env`
   - Note. **Never add this type of config to version control. This would usually come from your build server.**
 
 # Requirements 📖
@@ -21,7 +21,8 @@
   - Use the API path `categories`
 - Loading state/UI *(optional, current UX is already clean)*
 
-Deezers API: [https://developers.deezer.com/api](https://developers.deezer.com/api)
+Deezers API Documentation: [https://developers.deezer.com/api](https://developers.deezer.com/api)
+API To Use: [https://cors-anywhere.herokuapp.com/https://api.deezer.com/chart](https://cors-anywhere.herokuapp.com/https://api.deezer.com/chart)
 
 # Think about 💡
 - Taking a look at the Deezer API documentation
