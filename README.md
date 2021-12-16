@@ -5,6 +5,7 @@
 # Goals/Outcomes ✨
 - To test knowledge of consuming APIs and handling responses
 - Loading state and knowing where and how to make multiple API calls efficiently
+- Should be able to play/pause a music
 
 # Pre-requisites ✅
 - Add your Deezer client ID & secret to `env`
