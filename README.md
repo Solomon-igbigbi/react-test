@@ -22,6 +22,8 @@
 - Loading state/UI *(optional, current UX is already clean)*
 
 Deezers API Documentation: [https://developers.deezer.com/api](https://developers.deezer.com/api)
+<br>
+<br>
 API To Use: [https://cors-anywhere.herokuapp.com/https://api.deezer.com/chart](https://cors-anywhere.herokuapp.com/https://api.deezer.com/chart)
 
 # Think about 💡
