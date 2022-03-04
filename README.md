@@ -3,9 +3,10 @@
 ### Difficulty: Hard | Time required: ~ 30-45 minutes
 
 # Goals/Outcomes ✨
-- To test knowledge of consuming APIs and handling responses
-- Loading state and knowing where and how to make multiple API calls efficiently
-- Should be able to play/pause a music
+- To test knowledge of consuming APIs and handling responses.
+- Loading state and knowing where and how to make multiple API calls efficiently.
+- Should be able to play/pause a music.
+- You ability to self research.
 
 # Pre-requisites ✅
 - Add your Deezer client ID & secret to `env`
@@ -26,9 +27,6 @@ Deezers API Documentation: [https://developers.deezer.com/api](https://developer
 <br>
 Deezers API: [https://api.deezer.com/chart](https://api.deezer.com/chart)
 <br>
-<br>
-You can't send request from a non secured app to the api, so use the below endpoint that has been bridge to accept reuest from anywhere, you can also decided to use anyother proxy bridge service you like.
-
 <br>
 
 # Think about 💡
