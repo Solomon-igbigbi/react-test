@@ -1,4 +1,4 @@
-# Deezer Coding Challenge 🎧
+# FrontEnd Coding Challenge 🎧
 
 # Goals/Outcomes ✨
 - To test knowledge of consuming APIs and handling responses.
