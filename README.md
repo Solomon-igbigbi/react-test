@@ -30,7 +30,6 @@ Deezers API: [https://api.deezer.com/chart](https://api.deezer.com/chart)
 You can't send request from a non secured app to the api, so use the below endpoint that has been bridge to accept reuest from anywhere, you can also decided to use anyother proxy bridge service you like.
 
 <br>
-API To Use: (https://cors-anywhere.herokuapp.com/https://api.deezer.com/chart)
 
 # Think about 💡
 - Taking a look at the Deezer API documentation
