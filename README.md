@@ -1,7 +1,5 @@
 # Deezer Coding Challenge 🎧
 
-### Difficulty: Hard | Time required: ~ 30-45 minutes
-
 # Goals/Outcomes ✨
 - To test knowledge of consuming APIs and handling responses.
 - Loading state and knowing where and how to make multiple API calls efficiently.
