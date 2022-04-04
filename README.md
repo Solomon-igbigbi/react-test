@@ -7,6 +7,9 @@
 - Your ability to self research.
 - Problem solving skills
 
+# Hint
+- Deploy to heroku
+
 
 # Pre-requisites ✅
 - Add your Deezer client ID & secret to `env`
