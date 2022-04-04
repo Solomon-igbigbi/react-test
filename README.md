@@ -5,6 +5,7 @@
 - Loading state and knowing where and how to make multiple API calls efficiently.
 - Should be able to play/pause a music.
 - Your ability to self research.
+- Problem solving skills
 
 
 # Pre-requisites ✅
